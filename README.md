@@ -1,7 +1,7 @@
 # macOS on ThinkPad T440
 
-![Catalina (10.15.7) on ThinkPad T440](!screenshot-1.png)
-![ThinkPad T440 running Catalina 10.15.7](!screenshot-2.jpg)
+![Catalina (10.15.7) on ThinkPad T440](screenshot-1.png)
+![ThinkPad T440 running Catalina 10.15.7](screenshot-2.jpg)
 _Catalina (10.15.7) on ThinkPad T440 (Mojave also works)_
 
 ## What works
